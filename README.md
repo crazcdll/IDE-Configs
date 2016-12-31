@@ -1,2 +1,2 @@
-# IDE-Config
-IDE-Config for JetBrains and so on
+# IDE-Configs
+IDE-Configs for JetBrains and so on
